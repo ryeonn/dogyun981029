@@ -1,4 +1,4 @@
-engkor_dict = {}
+ngkor_dict = {}
 eng = input("영어 단어 :")
 print("사전이 비어 있습니다.")
 print("단어를 추가합니다.")
@@ -20,4 +20,4 @@ while True:
             continue
         break
 
-print(engkot_dict)
+print(engkor_dict)
